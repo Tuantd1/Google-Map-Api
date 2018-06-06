@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_VNTMAP_TITLE_LIST_VIEW_LOCATIONS" option="View">
+        <message>
+                        <![CDATA[COM_VNTMAP_TITLE_LIST_VIEW_LOCATIONS_DESC]]>
+        </message>
+	</layout>
+</metadata>

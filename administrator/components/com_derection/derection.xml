@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="1.0" method="upgrade">
+	<name>com_derection</name>
+	<description>COM_DERECTION_XML_DESCRIPTION</description>
+	<creationDate>Jun 2018</creationDate>
+	<author>Trinh Dinh Tuan</author>
+	<license>GNU General Public License version 2 or later</license> 
+	<version>1.0.0</version>
+	
+	<files folder="site">
+		<filename>derection.php</filename>
+		<filename>index.html</filename>
+	</files>
+
+	<administration>
+		<menu>COM_DERECTION</menu>
+		<submenu>
+		</submenu>
+		<files folder="admin">
+			<filename>derection.php</filename>
+			<filename>index.html</filename>
+		</files>
+	</administration>
+</extension>
